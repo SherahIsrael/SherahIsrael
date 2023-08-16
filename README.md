@@ -4,17 +4,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sherah-israel-27810121a/">
-    <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/assets/125824475/41bc5b27-d7c8-4d52-a337-21d23acdd273" alt="Sherah Israel | LinkedIn"/>
+    <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/blob/main/linkedin_icon.png" alt="Sherah Israel | LinkedIn"/>
   </a>
   <span>_____</span>
-  <a  href="#">
+  <a  href="https://imaginative-dango-635e9a.netlify.app/">
     <img src="https://media.giphy.com/media/pc34SVBNXTswaJ1x2G/giphy.gif" height="60" margin-left="20px"/>
   </a>
 </div>
-
-
-<a href="https://www.linkedin.com/in/yushi95/"><img align=”left” src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn" width="21px"/></a>
-<br><br><br><br>
 
 ---
 <br>
