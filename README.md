@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sherah-israel-27810121a/">
-    <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/assets/125824475/41bc5b27-d7c8-4d52-a337-21d23acdd273"/>
+    <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/assets/125824475/41bc5b27-d7c8-4d52-a337-21d23acdd273" alt="Sherah Israel | LinkedIn"/>
   </a>
   <span>_____</span>
   <a  href="#">
