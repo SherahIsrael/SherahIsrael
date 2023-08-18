@@ -7,7 +7,7 @@
     <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/blob/main/linkedin_icon.png" alt="Sherah Israel | LinkedIn"/>
   </a>
   <span>_____</span>
-  <a  href="https://imaginative-dango-635e9a.netlify.app/">
+  <a  href="www.sherahisrael.com">
     <img src="https://media.giphy.com/media/pc34SVBNXTswaJ1x2G/giphy.gif" height="60" margin-left="20px"/>
   </a>
 </div>
