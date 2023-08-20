@@ -8,7 +8,7 @@
   </a>
   <span>_____</span>
   <a  href="https://www.sherahisrael.com/">
-    <img src="https://media.giphy.com/media/pc34SVBNXTswaJ1x2G/giphy.gif" height="60" margin-left="20px"/>
+    <img src="https://media.giphy.com/media/MzUplcoS0HIzNIdP3T/giphy.gif" height="60" margin-left="20px"/>
   </a>
 </div>
 
