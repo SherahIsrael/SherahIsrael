@@ -18,8 +18,8 @@
 ## About Me
 
 - 👋 Hi, I’m Sherah
-- 👀 I’m interested in becoming a Full-Stack Developer and developing to be a DevOps Engineer. 
-- 🌱 I’m currently finnishing a 12 week intensive software development bootcamp with JustIT.
+- 👀 I’m interested in stepping into a full time position in the tech world. 
+- 🌱 I’m currently completing a python database project using flask, sqlalchemy and Google Cloud Platform.
 - 📫 How to reach me: I welcome you to check out my portfolio, you can send me a message through the contact section. You can also reach me through LinkedIn.
 
 <br><br>
