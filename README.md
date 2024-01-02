@@ -18,8 +18,8 @@
 ## About Me
 
 - 👋 Hi, I’m Sherah
-- 👀 I’m interested in stepping into a full time position in the tech world. 
-- 🌱 I’m currently completing a python database project using flask, sqlalchemy and Google Cloud Platform.
+- 👀 I’m a software engineer intern with a background in electrical and electronic engineering
+- 🌱 I’m currently working on real world projects in React and Node.js with OpenAI and Machine Learning Technologies
 - 📫 How to reach me: I welcome you to check out my portfolio, you can send me a message through the contact section. You can also reach me through LinkedIn.
 
 <br><br>
