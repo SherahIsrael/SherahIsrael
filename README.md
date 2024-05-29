@@ -18,8 +18,8 @@
 ## About Me
 
 - 👋 Hi, I’m Sherah
-- 👀 I’m a software engineer intern with a background in electrical and electronic engineering
-- 🌱 I’m currently working on real world projects in React and Node.js with OpenAI and Machine Learning Technologies
+- 👀 I’m a software engineer with a background in electrical and electronic engineering
+- 🌱 I’m currently working on a database Python app called Evently from scratch. You can follow my progress on my LinkedIn.
 - 📫 How to reach me: I welcome you to check out my portfolio, you can send me a message through the contact section. You can also reach me through LinkedIn.
 
 <br><br>
