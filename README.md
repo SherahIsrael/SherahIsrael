@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m Sherah
 - 👀 I’m a software engineer with a background in electrical and electronic engineering
-- 🌱 I’m currently working on a database Python app called Evently from scratch. You can follow my progress on my LinkedIn.
+- 🌱 I’m currently working on a database Python app called Evently from scratch. You can follow my progress on my LinkedIn and look at the pinned repo down below called Public_Project.
 - 📫 How to reach me: I welcome you to check out my portfolio, you can send me a message through the contact section. You can also reach me through LinkedIn.
 
 <br><br>
