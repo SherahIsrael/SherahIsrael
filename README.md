@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sherah-israel-27810121a/">
+  <a href="https://www.linkedin.com/in/sherah-israel/">
     <img height="60px" src="https://github.com/SherahIsrael/SherahIsrael/blob/main/linkedin_icon.png" alt="Sherah Israel | LinkedIn"/>
   </a>
   <span>_____</span>
